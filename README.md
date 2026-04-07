@@ -16,7 +16,7 @@
 
 ## 感谢
 
-感谢[https://github.com/OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)团队的工作。
+感谢 [https://github.com/OpenBMB](https://github.com/OpenBMB) 团队的工作。
 
 ## 版权
 
